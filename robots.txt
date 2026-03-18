@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://your-vercel-url.vercel.app/sitemap.xml
+Sitemap: https://daegu-gyeongsan-weekend-import-car.vercel.app/sitemap.xml
